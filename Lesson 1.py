@@ -11,7 +11,9 @@ print(" Nia " *7 )
    коментар
 '''
 
+'''
 print("Мені",14,"рочків")
+'''
 name = input("Enter your name:")
 print("Hello", name)
 age = int(input("Enter your age:"))
