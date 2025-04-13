@@ -9,3 +9,4 @@ class Car:
 
 My_car = Car("Audi", "A4", 2021)
 print(My_car.getinfo())
+print("hfg")
